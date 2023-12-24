@@ -1,0 +1,60 @@
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.exe
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.deps.json
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.runtimeconfig.json
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.dll
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.pdb
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.csproj.AssemblyReference.cache
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\SimulationWindow.g.cs
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF_MarkupCompile.cache
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF_MarkupCompile.lref
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\SimulationWindow.baml
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.g.resources
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.Resource.resources
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.csproj.GenerateResource.cache
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.AssemblyInfoInputs.cache
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.AssemblyInfo.cs
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.dll
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\refint\FlightSimulatorWPF.dll
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.pdb
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.genruntimeconfig.cache
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\ref\FlightSimulatorWPF.dll
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.csproj.CopyComplete
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\ControlInformationWindow.g.cs
+C:\Users\arefe\source\repos\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\ControlInformationWindow.baml
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.exe
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.deps.json
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.runtimeconfig.json
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.dll
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\FlightSimulatorWPF.pdb
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.csproj.AssemblyReference.cache
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\ControlInformationWindow.g.cs
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\SimulationWindow.g.cs
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF_MarkupCompile.cache
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF_MarkupCompile.lref
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\ControlInformationWindow.baml
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\SimulationWindow.baml
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.g.resources
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.Resource.resources
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.csproj.GenerateResource.cache
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.AssemblyInfoInputs.cache
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.AssemblyInfo.cs
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.csproj.CopyComplete
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.dll
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\refint\FlightSimulatorWPF.dll
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.pdb
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\FlightSimulatorWPF.genruntimeconfig.cache
+C:\Users\Kira\OneDrive\Рабочий стол\FlightSimulatorWPF\FlightSimulatorWPF\obj\Debug\net6.0-windows\ref\FlightSimulatorWPF.dll

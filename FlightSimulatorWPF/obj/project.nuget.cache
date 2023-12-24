@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "odLWVsF4WRV9CrrVXMFxusRhEAeGnJQYdMBFNmYLOupQa3d7SACHWWmYyC0CVgUFyq3OsYvPX2q6jTL/Zv8VbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\FlightSimulatorWPF\\FlightSimulatorWPF\\FlightSimulatorWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kira\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Kira\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
